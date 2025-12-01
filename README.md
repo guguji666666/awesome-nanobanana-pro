@@ -1,4 +1,4 @@
-[Last updated on 2025.11.28: Added memory palace learning, googly eyes effects, cartoon infographics and weather card generator prompts]
+[Last updated on 2025.12.01: Added cinematic keyframe generator, room furnishing visualization, travel journal illustrator, professional headshot creator, face detection CCTV simulation, and kids' crayon travel journal prompts]
 # Awesome Nano Banana Pro 🍌
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![GitHub stars](https://img.shields.io/github/stars/ZeroLu/awesome-nanobanana-pro?style=social)](https://github.com/ZeroLu/awesome-nanobanana-pro/stargazers)
@@ -27,9 +27,8 @@ Similar repo: [Awesome Gemini3](https://github.com/ZeroLu/awesome-gemini-ai/)
 8. [Social Media & Marketing](#8-social-media--marketing)
 9. [Daily Life & Translation](#9-daily-life--translation)
 10. [Social Networking & Avatars](#10-social-networking--avatars)
-11. [New Additions](#11-new-additions)
-12. [Resources](#12-resources)
-13. [Contributing](#13-contributing)
+11. [Resources](#11-resources)
+12. [Contributing](#12-contributing)
 
 ---
 
@@ -163,6 +162,16 @@ Keep the facial features of the person in the uploaded image exactly consistent 
 Keep the facial features of the person in the uploaded image exactly consistent . Style : A cinematic, emotional portrait shot on Kodak Portra 400 film . Setting : An urban street coffee shop window at Golden Hour (sunset) . Warm, nostalgic lighting hitting the side of the face. Atmosphere : Apply a subtle film grain and soft focus to create a dreamy, storytelling vibe. Action : The subject is looking slightly away from the camera, holding a coffee cup, with a relaxed, candid expression. Details : High quality, depth of field, bokeh background of city lights.
 ```
 *Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
+
+### 1.7. Professional Headshot Creator
+*Create a professional profile photo from a selfie*
+<img width="500" alt="Image" src="https://pbs.twimg.com/media/G6x00O_XIAASY0r?format=jpg&name=900x900" />
+
+**Prompt:**
+```text
+"A professional, high-resolution profile photo, maintaining the exact facial structure, identity, and key features of the person in the input image. The subject is framed from the chest up, with ample headroom. The person looks directly at the camera. They are styled for a professional photo studio shoot, wearing a premium smart casual blazer in a subtle charcoal gray. The background is a solid '#562226' neutral studio color. Shot from a high angle with bright and airy soft, diffused studio lighting, gently illuminating the face and creating a subtle catchlight in the eyes, conveying a sense of clarity. Captured on an 85mm f/1.8 lens with a shallow depth of field, exquisite focus on the eyes, and beautiful, soft bokeh. Observe crisp detail on the fabric texture of the blazer, individual strands of hair, and natural, realistic skin texture. The atmosphere exudes confidence, professionalism, and approachability. Clean and bright cinematic color grading with subtle warmth and balanced tones, ensuring a polished and contemporary feel."
+```
+*Source: [@PavolRusnak](https://x.com/PavolRusnak/status/1994097306526994558)*
 
 ---
 
@@ -465,87 +474,322 @@ Turn this photo of my [cat/dog] into a funny hand-drawn WeChat sticker . Style :
 
 ---
 
-## 11. New Additions
+## 3. Education & Knowledge
 
-### 11.1. Memory Palace Learning Technique
-*A technique to help learning English vocabulary using a detailed pet store scene with labeled words.*
-<img width="500" alt="Image" src="https://pbs.twimg.com/media/G6iAvNSaoAAsFc2?format=jpg&name=medium" />
-<img width="500" alt="Image" src="https://pbs.twimg.com/media/G6iAy7VbYAAIKCT?format=jpg&name=900x900" />
-
-**Prompt:**
-```text
-Create a detailed {{pet store}} scene with English vocabulary labels for all objects. The format for labeling is: Line 1: English word, Line 2: IPA pronunciation, Line 3: Chinese translation
-```
-*Source: [@lxfater](https://x.com/lxfater/status/1992984573551276147?s=20)*
-
-### 11.2. Googly Eyes and Stick Hands
-*Add illustrated googly eyes and stick hands on the (object/animal/ your bff) in an exaggerated comedic pose*
-<img width="500" alt="Image" src="https://pbs.twimg.com/media/G6rh6vQbAAAWLvz?format=jpg&name=medium" />
-<img width="500" alt="Image" src="https://pbs.twimg.com/media/G6rh6zcaIAAJsYw?format=jpg&name=900x900" />
+### 3.1. Concept Visualization (Text to Infographic)
+*Converts textual concepts into clear, educational vector illustrations.*
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/bfaee21b-d6da-4345-9340-e786ce07dbed" />
 
 **Prompt:**
 ```text
-Add illustrated googly eyes and stick hands on the (object/animal/ your bff) in an exaggerated comedic pose
+Create an educational infographic explaining [Photosynthesis] . Visual Elements : Illustrate the key components: The Sun, a green Plant, Water (H2O) entering roots, Carbon Dioxide (CO2) entering leaves, and Oxygen (O2) being released. Style : Clean, flat vector illustration suitable for a high school science textbook. Use arrows to show the flow of energy and matter. Labels : Label each element clearly in English .
 ```
-*Source: [@madpencil_](https://x.com/madpencil_/status/1993654188723851585?s=20)*
+*(Translation: 生成[光合作用]的教育信息图。视觉元素：太阳、植物、水入根、CO2入叶、O2释放。风格：适合高中课本的扁平矢量插图，用箭头显示流动。标签：用简体中文清晰标注。)*
+*Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
 
-### 11.3. Cartoon-Style Infographic
-*Convert your article/content to a cartoon-style infographic*
-<img width="500" alt="Image" src="https://pbs.twimg.com/media/G6qTUPAXQAAMM8q?format=jpg&name=medium" />
+### 3.2. Kids' Crayon Travel Journal Illustrator
+*Generate a childlike travel journal illustration for a city*
+<img width="500" alt="Image" src="https://pbs.twimg.com/media/G69WHFDW4AAv0TK?format=jpg&name=medium" />
+<img width="500" alt="Image" src="https://pbs.twimg.com/media/G69WJkjWsAApkIu?format=jpg&name=medium" />
+<img width="500" alt="Image" src="https://pbs.twimg.com/media/G69WJi3WkAAhV31?format=jpg&name=medium" />
+<img width="500" alt="Image" src="https://pbs.twimg.com/media/G69WJjdWQAAxQFg?format=jpg&name=medium" />
 
 **Prompt:**
 ```text
 --- Prompt ---
 
-Please create a cartoon-style infographic based on the provided content, following these guidelines:
+Please create a vibrant, child-like crayon-style vertical (9:16) illustration titled "{City Name} Travel Journal."  
+The artwork should look as if it were drawn by a curious child using colorful crayons, featuring a soft, warm light-toned background (such as pale yellow), combined with bright reds, blues, greens, and other cheerful colors to create a cozy, playful travel atmosphere.
 
-- Hand-drawn illustration style, landscape orientation (16:9 aspect ratio).
+I. Main Scene: Travel-Journal Style Route Map
 
-- Include a small number of simple cartoon elements, icons, or famous personalities to enhance visual interest and memorability.
+In the center of the illustration, draw a "winding, zigzagging travel route" with arrows and dotted lines connecting multiple locations.  
+The route should automatically generate recommended attractions based on {Number of Days}:
 
-- If the content includes sensitive or copyrighted figures, replace them with visually similar alternatives; do not refuse to generate the illustration.
+Example structure (auto-filled with {City Name}-related content):
 
-- All imagery and text must strictly adhere to a hand-drawn style; avoid realistic visual elements.
+- "Stop 1: {Attraction 1 + short fun description}"
+- "Stop 2: {Attraction 2 + short fun description}"
+- "Stop 3: {Attraction 3 + short fun description}"
+- …
+- "Final Stop: {Local signature food or souvenir + warm closing remark}"
 
-- Keep information concise, highlighting keywords and core concepts. Utilize ample whitespace to clearly emphasize key points.
+Rules:
+- If no number of days is provided, default to a 1-day highlight itinerary.
 
-- Unless otherwise specified, use the same language as the provided content.
+II. Surrounding Playful Elements (Auto-adapt to the City)
 
-Please use nano banana pro to create the illustration based on the input provided.
+Add many cute doodles and child-like decorative elements around the route, such as:
+
+1. Adorable travel characters
+   - A child holding a local snack  
+   - A little adventurer with a backpack
+
+2. Q-style hand-drawn iconic landmarks
+   - "{City Landmark 1}"
+   - "{City Landmark 2}"
+   - "{City Landmark 3}"
+
+3. Funny signboards
+   - "Don't get lost!"
+   - "Crowds ahead!"
+   - "Yummy food this way!"  
+   (Auto-adjust contextually for the city)
+
+4. Sticker-style short phrases
+   - "{City Name} travel memories unlocked!"
+   - "{City Name} food adventure!"
+   - "Where to next?"
+
+5. Cute icons of local foods
+   - "{Local Food 1}"
+   - "{Local Food 2}"
+   - "{Local Food 3}"
+
+6. Childlike exclamations
+   - "I didn't know {City Name} was so fun!"
+   - "I want to come again!"
+
+III. Overall Art Style Requirements
+
+- Crayon / children's hand-drawn travel diary style  
+- Bright, warm, colorful palette  
+- Cozy but full and lively composition  
+- Emphasize the joy of exploring  
+- All text should be in a cute handwritten font  
+- Make the entire page feel like a young child's fun travel-journal entry  
 ```
-*Source: [@dotey](https://x.com/dotey/status/1993567848564686926?s=20)*
-
-### 11.4. Weather Card Generator
-*Dynamically generate a current weather card based on a given city name*
-<img width="500" alt="Image" src="https://pbs.twimg.com/media/G6smrfEWUAAoCX8?format=jpg&name=4096x4096" />
-<img width="500" alt="Image" src="https://pbs.twimg.com/media/G6smZsqWcAETTUC?format=jpg&name=4096x4096" />
-
-**Prompt:**
-```text
---- prompt ---
-
-Present a clear, 45° top-down view of a vertical (9:16) isometric miniature 3D cartoon scene, highlighting iconic landmarks centered in the composition to showcase precise and delicate modeling.
-
-The scene features soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadow effects. Weather elements are creatively integrated into the urban architecture, establishing a dynamic interaction between the city's landscape and atmospheric conditions, creating an immersive weather ambiance.
-
-Use a clean, unified composition with minimalistic aesthetics and a soft, solid-colored background that highlights the main content. The overall visual style is fresh and soothing.
-
-Display a prominent weather icon at the top-center, with the date (x-small text) and temperature range (medium text) beneath it. The city name (large text) is positioned directly above the weather icon. The weather information has no background and can subtly overlap with the buildings.
-
-The text should match the input city's native language.
-Please retrieve current weather conditions for the specified city before rendering.
-
-City name:【New York】
-```
-*Source: [@dotey](https://x.com/dotey/status/1993729800922341810?s=20)*
+*Source: [@dotey](https://x.com/dotey/status/1994908289813880915)*
 
 ---
 
-## 12. Resources
+## 4. E-commerce & Virtual Studio
+
+### 4.1. Professional Product Photography
+*Isolates products from messy backgrounds and places them in a high-end commercial studio setting.*
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/cdfd4934-d06a-48ee-bf28-58ce16c458c1" />
+
+**Prompt:**
+```text
+Identify the main product in the uploaded photo (automatically removing any hands holding it or messy background details). Recreate it as a premium e-commerce product shot . Subject Isolation : Cleanly extract the product, completely removing any fingers, hands, or clutter . Background : Place the product on a pure white studio background (RGB 255, 255, 255) with a subtle, natural contact shadow at the base to ground it. Lighting : Use soft, commercial studio lighting to highlight the product's texture and material. Ensure even illumination with no harsh glare. Retouching : Automatically fix any lens distortion, improve sharpness, and color-correct to make the product look brand new and professional .
+```
+*Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
+
+### 4.2. Room Furnishing Visualization
+*Visualize how furniture would look in an empty room*
+<img width="500" alt="Image" src="https://pbs.twimg.com/media/G63UHDYWoAAD_Hm?format=jpg&name=medium" />
+<img width="500" alt="Image" src="https://pbs.twimg.com/media/G63UKjqWQAAJi6o?format=jpg&name=medium" />
+
+**Prompt:**
+```text
+Show me how this room would look with furniture in it
+```
+*Source: [@NanoBanana](https://x.com/NanoBanana/status/1994483569625022487)*
+
+---
+
+## 5. Workplace & Productivity
+
+### 5.1. Hand-drawn Flowchart to Corporate Charts
+*Converts whiteboard sketches into clear, "McKinsey-style" vector presentations.*
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/c59d3272-7525-4be0-94e3-8d642baaa659" />
+
+**Prompt:**
+```text
+Convert this hand-drawn whiteboard sketch into a professional corporate flowchart suitable for a business presentation. Style Guide : Use a minimalist 'McKinsey-style' aesthetic : clean lines, ample whitespace, and a sophisticated blue-and-gray color palette. Structure : Automatically align all boxes and diamonds to a strict grid . Connect them with straight, orthogonal arrows (90-degree angles only, no curvy lines). Text : Transcribe the handwritten labels into a clear, bold Sans-Serif font (like Arial or Roboto). Output : High-resolution vector-style image on a pure white background.
+```
+*Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
+
+### 5.2. UI Hand-drawn Sketch to High-Fidelity Prototype
+*Transforms wireframe scribbles into realistic mobile app mockups.*
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/67690896-22f8-4abc-8e89-d4779233a7ad" />
+
+**Prompt:**
+```text
+Transform this rough wireframe sketch into a high-fidelity UI design mockups for a mobile app. Design System : Apply a modern, clean aesthetics similar to iOS 18 or Material Design 3 . Use rounded corners, soft drop shadows, and a vibrant primary color. Components : Intelligently interpret the sketch: turn scribbles into high-quality placeholder images , convert rough rectangles into proper buttons with gradients , and turn lines into realistic text blocks . Layout : Ensure perfect padding and consistent spacing between elements. Context : Place the design inside a realistic iPhone 16 frame mockups.
+```
+*Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
+
+### 5.3. Magazine Layout Generator
+*Perfect for visualizing articles in print format with complex typography.*
+<img width="500" alt="Magazine Layout" src="https://github.com/user-attachments/assets/5982a68e-8c7d-4c7c-a07e-2a4a0a74770d" />
+
+**Prompt:**
+```text
+Put this whole text, verbatim, into a photo of a glossy magazine article on a desk, with photos, beautiful typography design, pull quotes and brave formatting. The text: [...the unformatted article]
+```
+*Source: [@fofrAI](https://x.com/fofrAI/status/1991530971800182929)*
+
+---
+
+## 6. Photo Editing & Restoration
+
+### 6.1. Composition Rescue (Smart Outpainting)
+*Expands image ratios (e.g., to 16:9) by intelligently generating matching scenery.*
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/cc8c4e87-fe0f-4b8a-a610-a6d55ed0294c" />
+
+**Prompt:**
+```text
+Zoom out and expand this image to a 16:9 aspect ratio (computer wallpaper size). Context Awareness : Seamlessly extend the scenery on both left and right sides. Match the original lighting, weather, and texture perfectly. Logical Completion : If there are cut-off objects (like a shoulder, a tree branch, or a building edge) on the borders, complete them naturally based on logical inference. Do not distort the original center image.
+```
+*Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
+
+### 6.2. Smart Crowd Removal
+*Removes unwanted people from backgrounds and fills the space with logical textures.*
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/bade2fb0-f7d8-4435-91d4-ad0b41819c9b" />
+
+**Prompt:**
+```text
+Remove all the tourists/people in the background behind the main subject. Intelligent Fill : Replace them with realistic background elements that logically fit the scene (e.g., extend the cobblestone pavement, empty park benches, or grass textures). Consistency : Ensure no blurry artifacts or 'smudges' remain. The filled area must have the same grain, focus depth, and lighting as the rest of the photo.
+```
+*Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
+
+### 6.3. Face Detection CCTV Simulation
+*Create a high angle CCTV surveillance shot with face detection*
+<img width="500" alt="Image" src="https://pbs.twimg.com/media/G673aBCWUAAFUGn?format=jpg&name=900x900" />
+<img width="500" alt="Image" src="https://pbs.twimg.com/media/G673bnVXkAAlnTh?format=jpg&name=900x900" />
+<img width="500" alt="Image" src="https://pbs.twimg.com/media/G673cV7W4AA-Hdb?format=jpg&name=900x900" />
+
+**Prompt:**
+```text
+Create a high angle CCTV surveillance shot using the uploaded image as the source. Detect every visible person in the image and automatically draw a white rectangular bounding box around each face. For the most prominent person, add a large zoom in inset: a sharp, enhanced close-up of their face displayed in a floating rectangular frame connected with a thin white line.Keep the main image slightly noisy and security camera like (soft grain, slight distortion, muted colors), while the zoom in face box should be clearer, brighter, and more detailed. No text, no timestamps, no overlays except the boxes and connecting line. Maintain the original scene layout, angle, and environment of the uploaded image.
+```
+*Source: [@egeberkina](https://x.com/egeberkina/status/1994804061024010628)*
+
+---
+
+## 7. Creative Experiments
+
+### 7.1. Cinematic Keyframe Generator
+*Generates cinematic keyframes and storyboards from a reference image*
+<img width="500" alt="Image" src="https://pbs.twimg.com/media/G64FgZKXMAAXP_g?format=jpg&name=small" />
+<img width="500" alt="Image" src="https://pbs.twimg.com/media/G64FgZGWwAAwXEl?format=jpg&name=small" />
+<img width="500" alt="Image" src="https://pbs.twimg.com/media/G64FgZXXcAAXmWw?format=jpg&name=small" />
+<img width="500" alt="Image" src="https://pbs.twimg.com/media/G64FgZYXUAAg5Wf?format=jpg&name=small" />
+
+**Prompt:**
+```text
+<role>
+You are an award-winning trailer director + cinematographer + storyboard artist. Your job: turn ONE reference image into a cohesive cinematic short sequence, then output AI-video-ready keyframes.
+</role>
+
+<input>
+User provides: one reference image (image).
+</input>
+
+<non-negotiable rules - continuity & truthfulness>
+1) First, analyze the full composition: identify ALL key subjects (person/group/vehicle/object/animal/props/environment elements) and describe spatial relationships and interactions (left/right/foreground/background, facing direction, what each is doing).
+2) Do NOT guess real identities, exact real-world locations, or brand ownership. Stick to visible facts. Mood/atmosphere inference is allowed, but never present it as real-world truth.
+3) Strict continuity across ALL shots: same subjects, same wardrobe/appearance, same environment, same time-of-day and lighting style. Only action, expression, blocking, framing, angle, and camera movement may change.
+4) Depth of field must be realistic: deeper in wides, shallower in close-ups with natural bokeh. Keep ONE consistent cinematic color grade across the entire sequence.
+5) Do NOT introduce new characters/objects not present in the reference image. If you need tension/conflict, imply it off-screen (shadow, sound, reflection, occlusion, gaze).
+</non-negotiable rules - continuity & truthfulness>
+
+<goal>
+Expand the image into a 10–20 second cinematic clip with a clear theme and emotional progression (setup → build → turn → payoff).
+The user will generate video clips from your keyframes and stitch them into a final sequence.
+</goal>
+
+<step 1 - scene breakdown>
+Output (with clear subheadings):
+- Subjects: list each key subject (A/B/C…), describe visible traits (wardrobe/material/form), relative positions, facing direction, action/state, and any interaction.
+- Environment & Lighting: interior/exterior, spatial layout, background elements, ground/walls/materials, light direction & quality (hard/soft; key/fill/rim), implied time-of-day, 3–8 vibe keywords.
+- Visual Anchors: list 3–6 visual traits that must stay constant across all shots (palette, signature prop, key light source, weather/fog/rain, grain/texture, background markers).
+</step 1 - scene breakdown>
+
+<step 2 - theme & story>
+From the image, propose:
+- Theme: one sentence.
+- Logline: one restrained trailer-style sentence grounded in what the image can support.
+- Emotional Arc: 4 beats (setup/build/turn/payoff), one line each.
+</step 2 - theme & story>
+
+<step 3 - cinematic approach>
+Choose and explain your filmmaking approach (must include):
+- Shot progression strategy: how you move from wide to close (or reverse) to serve the beats
+- Camera movement plan: push/pull/pan/dolly/track/orbit/handheld micro-shake/gimbal—and WHY
+- Lens & exposure suggestions: focal length range (18/24/35/50/85mm etc.), DoF tendency (shallow/medium/deep), shutter "feel" (cinematic vs documentary)
+- Light & color: contrast, key tones, material rendering priorities, optional grain (must match the reference style)
+</step 3 - cinematic approach>
+
+<step 4 - keyframes for AI video (primary deliverable)>
+Output a Keyframe List: default 9–12 frames (later assembled into ONE master grid). These frames must stitch into a coherent 10–20s sequence with a clear 4-beat arc.
+Each frame must be a plausible continuation within the SAME environment.
+
+Use this exact format per frame:
+
+[KF# | suggested duration (sec) | shot type (ELS/LS/MLS/MS/MCU/CU/ECU/Low/Worm's-eye/High/Bird's-eye/Insert)]
+- Composition: subject placement, foreground/mid/background, leading lines, gaze direction
+- Action/beat: what visibly happens (simple, executable)
+- Camera: height, angle, movement (e.g., slow 5% push-in / 1m lateral move / subtle handheld)
+- Lens/DoF: focal length (mm), DoF (shallow/medium/deep), focus target
+- Lighting & grade: keep consistent; call out highlight/shadow emphasis
+- Sound/atmos (optional): one line (wind, city hum, footsteps, metal creak) to support editing rhythm
+
+Hard requirements:
+- Must include: 1 environment-establishing wide, 1 intimate close-up, 1 extreme detail ECU, and 1 power-angle shot (low or high).
+- Ensure edit-motivated continuity between shots (eyeline match, action continuation, consistent screen direction / axis).
+</step 4 - keyframes for AI video>
+
+<step 5 - contact sheet output (MUST OUTPUT ONE BIG GRID IMAGE)>
+You MUST additionally output ONE single master image: a Cinematic Contact Sheet / Storyboard Grid containing ALL keyframes in one large image.
+- Default grid: 3x3. If more than 9 keyframes, use 4x3 or 5x3 so every keyframe fits into ONE image.
+Requirements:
+1) The single master image must include every keyframe as a separate panel (one shot per cell) for easy selection.
+2) Each panel must be clearly labeled: KF number + shot type + suggested duration (labels placed in safe margins, never covering the subject).
+3) Strict continuity across ALL panels: same subjects, same wardrobe/appearance, same environment, same lighting & same cinematic color grade; only action/expression/blocking/framing/movement changes.
+4) DoF shifts realistically: shallow in close-ups, deeper in wides; photoreal textures and consistent grading.
+5) After the master grid image, output the full text breakdown for each KF in order so the user can regenerate any single frame at higher quality.
+</step 5 - contact sheet output>
+
+<final output format>
+Output in this order:
+A) Scene Breakdown
+B) Theme & Story
+C) Cinematic Approach
+D) Keyframes (KF# list)
+E) ONE Master Contact Sheet Image (All KFs in one grid)
+</final output format>
+```
+*Source: [@underwoodxie96](https://x.com/underwoodxie96/status/1995109628825489647)*
+
+---
+
+## 10. Social Networking & Avatars
+
+### 10.1. 3D Blind Box Style Avatar
+*Converts portraits into cute, C4D-style "Pop Mart" toy characters.*
+<p align="center">
+  <img width="200" src="https://github.com/user-attachments/assets/c6c03353-f00a-4042-ba74-726b46c67541" alt="Original" />
+  <img width="250" src="https://github.com/user-attachments/assets/da445a7e-cf15-44be-ad18-d66b8fb78ae8" alt="Blind Box" />
+</p>
+
+**Prompt:**
+```text
+Transform the person in the uploaded photo into a cute 3D Pop Mart style blind box character . Likeness : Keep key features recognizable: [hair color, glasses, hairstyle]. Style : C4D rendering, occlusion render, cute Q-version , soft studio lighting, pastel colors. Background : A simple, solid matte color background (e.g., soft blue). Detail : The character should have a smooth, plastic toy texture with a slight glossy finish. Facing forward, friendly expression.
+```
+*Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
+
+### 10.2. Pet Meme Creation
+*Turns pet photos into minimalist, hand-drawn funny stickers.*
+<p align="center">
+  <img width="400" src="https://github.com/user-attachments/assets/ed677fde-b407-4798-895d-e89c8534bd32" alt="Pet" />
+  <img width="400" src="https://github.com/user-attachments/assets/9fc5866a-e62e-43b9-af83-8fa5f6421d33" alt="Meme" />
+</p>
+
+**Prompt:**
+```text
+Turn this photo of my [cat/dog] into a funny hand-drawn WeChat sticker . Style : Minimalist ugly-cute line drawing (doodle style). White background. Expression : Exaggerate the animal's expression to look extremely shocked/judgemental/lazy (based on photo). Accessories : Add cute little doodles like sweat drops, question marks, or sparkles around the head. Text : Add handwritten text at the bottom: 'So Dumb'. Ensure the text style is messy and funny.
+```
+*Source: [WeChat Article](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)*
+
+---
+
+## 11. Resources
 
 - [Official Prompting Guide](https://blog.google/products/gemini/prompting-tips-nano-banana-pro/) - Learn how to structure your prompts effectively.
 
-## 13. Contributing
+## 12. Contributing
 
 Contributions are welcome! If you have an **awesome Nano Banana prompt**, please submit a Pull Request.
 
@@ -556,7 +800,7 @@ Contributions are welcome! If you have an **awesome Nano Banana prompt**, please
 
 Please ensure you include the **Source** (link to the original creator) to give credit where it is due.
 
-## 14. Star History
+## 13. Star History
 
 <a href="https://star-history.com/#ZeroLu/awesome-nanbanana-pro&Date">
  <picture>
