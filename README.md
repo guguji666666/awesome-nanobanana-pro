@@ -1,4 +1,4 @@
-[Last updated on 2026.2.10: Added photo book style magazine covers, country island dioramas, novel scene posters, miniature swimming pools, Christmas ornaments, surreal wrinkle removal, isometric photography, wide angle edits, shop window cartoons, 3D LED displays, trans-dimensional liquid pours, fisheye portraits, IXUS aesthetic photos, and anime spotlights]
+#### Please also check out 👉 [this awesome repo of Seedance 2.0 prompts!](https://github.com/ZeroLu/awesome-seedance) 👈
 
 # Awesome Nano Banana Pro 🍌
 
