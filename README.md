@@ -12,13 +12,8 @@ This repository focuses on **high-fidelity image prompts** sourced from X (Twitt
 [![Cyberbara Ad](./assets/cyberbara-real-face-upload-banner.webp)](https://cyberbara.com/seedance2.0?utm_source=banana)
 
 > **💡 Struggle with Seedance 2.0 Face Detection?**
-> Cyberbara now supports **real face uploads without limits!** Plus, enjoy our massive price drop. [Unlock your limits at cyberbara.com →](https://cyberbara.com/seedance2.0?utm_source=banana)
+> Cyberbara now supports **real face uploads without limits!** Plus, up to 20% off official Seedance 2.0. [Unlock your limits at cyberbara.com →](https://cyberbara.com/seedance2.0?utm_source=banana)
 
-### Sponsor2: [DolOffer](https://doloffer.com)
-[<img width="600" alt="DolOffer logo" src="./assets/doloffer-logo.png" />](https://doloffer.com?utm_source=nanobanana)
-
-> **Spent too much money on GPT and Claude Pro subscriptions?**
-> DolOffer is a digital subscription sharing and recharge platform for authentic GPT and Claude Pro memberships. Use code `AI8888` at checkout for 10% off. [Save money on your AI subscriptions at doloffer.com →](https://doloffer.com?utm_source=nanobanana)
 
 This repo gets up to **20,000 visitors per day**, [mail me](mailto:iamzerolu@gmail.com) if you want a limited sponsor slot!
 
